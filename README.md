@@ -1,8 +1,14 @@
-# SUPRA NODE LATENCY TESTER
+# SUPRA NODE LATENCY TESTER (Windows version)
 
 >To test the latency of a node, a simple ping is not accurate.
 >
 >This tester is sending web3 requests to the node to test the latency. 
+
+
+# WINDOWS .EXE VERSION:
+download these 2 files
+
+
 
 you need python - pip - web3
 

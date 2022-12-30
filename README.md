@@ -5,11 +5,11 @@
 >This tester is sending web3 requests to the node to test the latency. 
 
 
-# WINDOWS .EXE VERSION:
+# Windows .exe Version:
 download these 2 files
 
 
-# WINDOWS PYTHON VERSION:
+# Windows Python Version:
 you need python - pip - web3
 
 ## Install python pip

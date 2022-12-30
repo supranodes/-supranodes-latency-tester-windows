@@ -7,7 +7,9 @@
 
 # Windows .exe Version:
 download these 2 files
+
 https://github.com/supranodes/Supranodes-latency-tester-windows/blob/main/supranodes-latency-tester.exe
+
 https://github.com/supranodes/Supranodes-latency-tester-windows/blob/main/settings.json
 
 

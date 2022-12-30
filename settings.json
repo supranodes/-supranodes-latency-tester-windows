@@ -1,0 +1,7 @@
+{
+
+    "endpoints": ["https://user1:password1@test1.botnodes.com:18550","wss://user1:password1@test1.botnodes.com:18551","https://rpc.speedynodes.net:8443/bsc-https?apikey=vXlR8WmQczhiUUHVQQ7Ngn1EArnjEGay","wss://rpc.speedynodes.net:8443/bsc-wss?apikey=vXlR8WmQczhiUUHVQQ7Ngn1EArnjEGay"]
+    
+}
+    
+        

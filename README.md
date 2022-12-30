@@ -1,4 +1,4 @@
-# SUPRA NODE LATENCY TESTER (Windows version)
+# Supranodes Latency Tester (Windows version)
 
 >To test the latency of a node, a simple ping is not accurate.
 >
